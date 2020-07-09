@@ -31,10 +31,10 @@ position: left ;
 }
  .bgPink {
 
-    background-image: url("./imagem-gitpage.jpg");
-    background-color: #d699ff;
+    
+    background-color: #660066;
     background-size: cover ;
-    padding:50px ;
+    
  }
 
  .bg-white {
