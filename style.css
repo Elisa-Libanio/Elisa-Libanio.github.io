@@ -1,0 +1,71 @@
+body {
+ 
+    margin:0 !important ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.minhaFoto {
+ width: 280px ;
+height: 280px ;
+border-radius: 150px ;
+position: left ;
+
+}
+
+.sofoto {
+
+    
+    
+}
+.header{
+    color: white ;
+    
+}
+
+.centralizar { 
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+}
+ .bgPink {
+
+    background-image: url("./imagem-gitpage.jpg");
+    background-color: #d699ff;
+    background-size: cover ;
+    padding:50px ;
+ }
+
+ .bg-white {
+
+      background-color: #fff;
+
+ }
+
+ .noPadding {
+
+    margin:none;
+ }
+
+ .Footer {
+     padding-top: 5px;
+     text-align: center;
+    color: white;
+    background-color: black;
+    
+ }
+
+ .Footer h6 {
+
+    margin-bottom: 0;
+
+
+ }
+
+.text-align-left {
+     
+    text-align: justify;
+
+
+}
